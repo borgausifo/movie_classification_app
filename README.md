@@ -1,2 +1,2 @@
-# movie_classification_app
-Simple movie classification project 
+# movie Classification App
+Simple movie classification project for some Python exercise. 
